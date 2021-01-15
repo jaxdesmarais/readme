@@ -1,5 +1,17 @@
 This is a space for me to write about my experience in my first Engineering role. I hope to write about my experience each week to look back on and hopefully learn from myself. My goal is to add some notes at least once a month, but sometimes I'll probably be bad at that.
 
+## Week of January 11th
+### Successes
+* I merged my first PR - my code will now be in the wild
+* My tasks are going well once I got on a roll but still slow to start
+
+### Surprises
+* I am starting to udnerstand what people mean by their PR comments instead of mostly being confused
+
+### Personal Life
+* We owned our house for a year today - what a wild ride
+* Valerie also turns 2 in two weeks which is also wild/cool
+
 ## Week of December 14th
 ### Successes
 * I put up my first PR, it was small and I needed a lot of help but I did it
