@@ -1,5 +1,18 @@
 This is a space for me to write about my experience in my first Engineering role. I hope to write about my experience each week to look back on and hopefully learn from myself. My goal is to add some notes at least once a month, but sometimes I'll probably be bad at that.
 
+## Week of January 18th
+### Successes
+* My code is out in the wild and that feels very weird/cool
+* I am starting to feel more comfortable with day to day work which is refreshing
+
+### Surprises
+* I feel like I am getting to the point where I can contribute to meetings more, which is really dope - I think I expected that to take waaaay longer
+* I had a 1:1 with my boss and we talked through just the genrals of taking time to learn and how he can support me in that
+
+### Personal Life
+* 1 week until Valerie is 2!
+* House projects are still chugging along but it still feels like the list is endless some days - I know we will get there
+
 ## Week of January 11th
 ### Successes
 * I merged my first PR - my code will now be in the wild
