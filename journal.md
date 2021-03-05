@@ -1,5 +1,21 @@
 This is a space for me to write about my experience in my first Engineering role. I hope to write about my experience each week to look back on and hopefully learn from myself. My goal is to add some notes at least once a month, but sometimes I'll probably be bad at that.
 
+## Week of March 1st
+Ooops, I forgot a whole month - not too suprised, it was really busy
+
+### Successes
+* Myself and a colleague merged a huuuuuuge PR that had been open for 2.5 months and was around 2,500 lines of code
+* Merging some small PRs here and there and just generally starting to feel like I understand things a bit more
+
+### Surprises
+* During my review my boss and I talked about me moving to the next level in the next review cycle - I don't feel ready for that so trying to get over the general imposture syndrome there
+
+### Personal Life
+* My wife started a new job
+* Our daugher turned 2
+* We got like 2 feet of snow
+* I get my first dose of the Covid-19 vaccine tomorrow
+
 ## Week of January 18th
 ### Successes
 * My code is out in the wild and that feels very weird/cool
