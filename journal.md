@@ -1,5 +1,19 @@
 This is a space for me to write about my experience in my first Engineering role. I hope to write about my experience each week to look back on and hopefully learn from myself. My goal is to add some notes at least once a month, but sometimes I'll probably be bad at that.
 
+## Week of April 5th
+
+### Successes
+* We released our SDK as part of our soft-launch - it's out in the wild and people are using it!
+* Continuing to get more comfomrtable with the work and just being an Engineer - some days are better than others
+
+### Surprises
+* Things are starting to click a bit more and that feeling is really cool. I still feel like I'm behind on some things but hoping that gets better over time.
+
+### Personal Life
+* Got my second dose of the Covid-19 vaccine
+* We are still working on home projects - finishing up the sunroom and the garden then moving on to the coffee bar area
+* Finally starting to get some nice weather in Chicago, which is much needed and so nice
+
 ## Week of March 1st
 Ooops, I forgot a whole month - not too suprised, it was really busy
 
